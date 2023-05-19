@@ -1,0 +1,26 @@
+{
+  "name": "prueba",
+  "version": "1.9.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "si"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodesource/distributions.git"
+  },
+  "keywords": [
+    "si"
+  ],
+  "author": "yo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodesource/distributions/issues"
+  },
+  "homepage": "https://github.com/nodesource/distributions#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4"
+  }
+}
